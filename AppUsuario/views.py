@@ -33,3 +33,4 @@ def registro(request):
 
 def saldo (request):
     return render(request, 'HSaldo.html')
+#y el primo 
