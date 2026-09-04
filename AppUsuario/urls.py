@@ -3,7 +3,7 @@ from . import views
 
 # Hola
 
-
+# hola mundo
 # ------------------------------------------------------------------------------------------------------
 # NOTA DE JULIO
 # Estos don todos los path de la aplicacion, para el uso de los path se pueden crear un path para cada
